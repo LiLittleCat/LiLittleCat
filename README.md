@@ -17,14 +17,22 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-<details> 
-  <summary>💻 GitHub Profile Stats</summary>
-  <br/>
-    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LiLittleCat's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LiLittleCat&include_all_commits=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lrusso96's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LiLittleCat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-  <br/>
-<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->
-</details>
+
+[//]: # (<details> )
+
+[//]: # (  <summary>💻 GitHub Profile Stats</summary>)
+
+[//]: # (  <br/>)
+
+[//]: # (    <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LiLittleCat's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LiLittleCat&include_all_commits=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" /></a>)
+
+[//]: # (  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lrusso96's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LiLittleCat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>)
+
+[//]: # (  <br/>)
+
+[//]: # (<!--   <b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level. -->)
+
+[//]: # (</details>)
 
 
 💻 GitHub Profile Stats  
