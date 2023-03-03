@@ -6,8 +6,6 @@
 An experienced backend developer who is currently learning frontend technology and AI from China.
 </p>
 
----
-
 <!-- ![](https://komarev.com/ghpvc/?username=LiLittleCat&color=brightgreen&style=for-the-badge) ![](https://hit.yhype.me/github/profile?user_id=40536573) -->
 
 <p align="center">
