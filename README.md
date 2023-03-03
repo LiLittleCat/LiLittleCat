@@ -9,7 +9,6 @@ An experienced backend developer who is currently learning frontend technology a
 
 ---
 
-
 <!-- ![](https://komarev.com/ghpvc/?username=LiLittleCat&color=brightgreen&style=for-the-badge) ![](https://hit.yhype.me/github/profile?user_id=40536573) -->
 
 <p align="center">
@@ -56,44 +55,111 @@ An experienced backend developer who is currently learning frontend technology a
 
 #### Maintain
 
-- IntelliJ IDEA Plugin:
-  - [ChatGPT Tool](https://github.com/LiLittleCat/intellij-chatgpt)
-    [![Version](https://img.shields.io/jetbrains/plugin/v/20629-chatgpt-tool.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/20629-chatgpt-tool)
-    [![Downloads](https://img.shields.io/jetbrains/plugin/d/20629-chatgpt-tool.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/20629-chatgpt-tool)
-    [![Stars](https://img.shields.io/github/stars/LiLittleCat/intellij-chatgpt?style=flat-square)](https://github.com/LiLittleCat/intellij-chatgpt)
-    [![GitHub last commit](https://img.shields.io/github/last-commit/LiLittleCat/intellij-chatgpt?style=flat-square&label=last)](https://github.com/LiLittleCat/intellij-chatgpt/commits)
-  - [Generate All Getter And Setter](https://github.com/LiLittleCat/intellij-generate-all-getter-and-setter)
-    [![Version](https://img.shields.io/jetbrains/plugin/v/18969-generate-all-getter-and-setter.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/18969-generate-all-getter-and-setter)
-    [![Downloads](https://img.shields.io/jetbrains/plugin/d/18969-generate-all-getter-and-setter.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/18969-generate-all-getter-and-setter)
-    [![Stars](https://img.shields.io/github/stars/LiLittleCat/intellij-generate-all-getter-and-setter?style=flat-square)](https://github.com/LiLittleCat/intellij-generate-all-getter-and-setter)
-    [![GitHub last commit](https://img.shields.io/github/last-commit/LiLittleCat/intellij-generate-all-getter-and-setter?style=flat-square&label=last)](https://github.com/LiLittleCat/intellij-generate-all-getter-and-setter/commits)
-  - [Pangu](https://github.com/LiLittleCat/intellij-pangu)
-    [![Version](https://img.shields.io/jetbrains/plugin/v/19665-pangu.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/19665-pangu)
-    [![Downloads](https://img.shields.io/jetbrains/plugin/d/19665-pangu.svg?style=flat-square)](https://plugins.jetbrains.com/plugin/19665-pangu)
-    [![Stars](https://img.shields.io/github/stars/LiLittleCat/intellij-pangu?style=flat-square)](https://github.com/LiLittleCat/intellij-pangu)
-    [![GitHub last commit](https://img.shields.io/github/last-commit/LiLittleCat/intellij-pangu?style=flat-square&label=last)](https://github.com/LiLittleCat/intellij-pangu/commits)
-  - [Code Labware](https://github.com/CodeLabware/intellij-code-labware)
-    [![Under construction](https://img.shields.io/badge/under-construction-yellow?style=flat-square&logo=rubocop)](https://github.com/CodeLabware/intellij-code-labware)
-    [![GitHub last commit](https://img.shields.io/github/last-commit/CodeLabware/intellij-code-labware?style=flat-square&label=last)](https://github.com/CodeLabware/intellij-code-labware/commits)
-
-- [ChatGPT Java](https://github.com/LiLittleCat/ChatGPT)
-  [![Maven Central](https://img.shields.io/maven-central/v/com.lilittlecat/chatgpt?style=flat-square)](https://central.sonatype.com/artifact/com.lilittlecat/chatgpt/1.0.0)
-  [![Stars](https://img.shields.io/github/stars/LiLittleCat/ChatGPT?style=flat-square)](https://github.com/LiLittleCat/ChatGPT)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/LiLittleCat/ChatGPT?style=flat-square&label=last)](https://github.com/LiLittleCat/ChatGPT/commits)
-
-- [阮一峰老师科技爱好者周刊「工具」和「资源」汇总](https://github.com/LiLittleCat/tools-in-ruanyf-weekly)
-  [![Stars](https://img.shields.io/github/stars/LiLittleCat/tools-in-ruanyf-weekly?style=flat-square)](https://github.com/LiLittleCat/tools-in-ruanyf-weekly)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/LiLittleCat/tools-in-ruanyf-weekly?style=flat-square&label=last)](https://github.com/LiLittleCat/tools-in-ruanyf-weekly/commits)
-
-- [Awesome Websites](https://github.com/LiLittleCat/awesome-websites)
-  [![Under construction](https://img.shields.io/badge/under-construction-yellow?style=flat-square&logo=rubocop)](https://github.com/LiLittleCat/awesome-websites)
-  [![Stars](https://img.shields.io/github/stars/LiLittleCat/awesome-websites?style=flat-square)](https://github.com/LiLittleCat/awesome-websites)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/LiLittleCat/awesome-websites?style=flat-square&label=last)](https://github.com/LiLittleCat/awesome-websites/commits)
+<table>
+<tbody>
+  <tr>
+    <td rowspan="4">JetBrains plugins</td>
+    <td><a href="https://github.com/LiLittleCat/intellij-chatgpt" target="_blank">ChatGPT Tool</a></td>
+    <td> <a href="https://plugins.jetbrains.com/plugin/20629-chatgpt-tool" target="_blank"><img
+                        src="https://img.shields.io/jetbrains/plugin/v/20629-chatgpt-tool.svg?style=flat-square"
+                        alt="Version"></a></td>
+    <td><a href="https://plugins.jetbrains.com/plugin/20629-chatgpt-tool" target="_blank"><img
+                        src="https://img.shields.io/jetbrains/plugin/d/20629-chatgpt-tool.svg?style=flat-square"
+                        alt="Downloads"></a></td>
+    <td><a href="https://github.com/LiLittleCat/intellij-chatgpt" target="_blank"><img
+                        src="https://img.shields.io/github/stars/LiLittleCat/intellij-chatgpt?style=flat-square"
+                        alt="Stars"></a></td>
+    <td> <a href="https://github.com/LiLittleCat/intellij-chatgpt/commits" target="_blank"><img
+                        src="https://img.shields.io/github/last-commit/LiLittleCat/intellij-chatgpt?style=flat-square&amp;label=last"
+                        alt="GitHub last commit"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/LiLittleCat/intellij-generate-all-getter-and-setter" target="_blank">Generate All Getter And
+                    Setter</a></td>
+    <td><a href="https://plugins.jetbrains.com/plugin/18969-generate-all-getter-and-setter" target="_blank"><img
+                        src="https://img.shields.io/jetbrains/plugin/v/18969-generate-all-getter-and-setter.svg?style=flat-square"
+                        alt="Version"></a></td>
+    <td> <a href="https://plugins.jetbrains.com/plugin/18969-generate-all-getter-and-setter" target="_blank"><img
+                        src="https://img.shields.io/jetbrains/plugin/d/18969-generate-all-getter-and-setter.svg?style=flat-square"
+                        alt="Downloads"></a></td>
+    <td><a href="https://github.com/LiLittleCat/intellij-generate-all-getter-and-setter" target="_blank"><img
+                        src="https://img.shields.io/github/stars/LiLittleCat/intellij-generate-all-getter-and-setter?style=flat-square"
+                        alt="Stars"></a></td>
+    <td><a href="https://github.com/LiLittleCat/intellij-generate-all-getter-and-setter/commits" target="_blank"><img
+                        src="https://img.shields.io/github/last-commit/LiLittleCat/intellij-generate-all-getter-and-setter?style=flat-square&amp;label=last"
+                        alt="GitHub last commit"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/LiLittleCat/intellij-pangu" target="_blank">Pangu</a></td>
+    <td> <a href="https://plugins.jetbrains.com/plugin/19665-pangu" target="_blank"><img
+                        src="https://img.shields.io/jetbrains/plugin/v/19665-pangu.svg?style=flat-square"
+                        alt="Version"></a></td>
+    <td> <a href="https://plugins.jetbrains.com/plugin/19665-pangu" target="_blank"><img
+                        src="https://img.shields.io/jetbrains/plugin/d/19665-pangu.svg?style=flat-square"
+                        alt="Downloads"></a></td>
+    <td> <a href="https://github.com/LiLittleCat/intellij-pangu" target="_blank"><img
+                        src="https://img.shields.io/github/stars/LiLittleCat/intellij-pangu?style=flat-square"
+                        alt="Stars"></a></td>
+    <td>  <a href="https://github.com/LiLittleCat/intellij-pangu/commits" target="_blank"><img
+                        src="https://img.shields.io/github/last-commit/LiLittleCat/intellij-pangu?style=flat-square&amp;label=last"
+                        alt="GitHub last commit"></a></td>
+  </tr>
+  <tr>
+    <td><a href="https://github.com/CodeLabware/intellij-code-labware" target="_blank">Code Labware</a></td>
+    <td colspan=3 > <a href="https://github.com/CodeLabware/intellij-code-labware" target="_blank"><img
+                        src="https://img.shields.io/badge/under-construction-yellow?style=flat-square&amp;logo=rubocop"
+                        alt="Under construction"></a></td>
+    <td> <a href="https://github.com/CodeLabware/intellij-code-labware/commits" target="_blank"><img
+                        src="https://img.shields.io/github/last-commit/CodeLabware/intellij-code-labware?style=flat-square&amp;label=last"
+                        alt="GitHub last commit"></a></td>
+  </tr>
+  <tr>
+    <td colspan=2><a href="https://github.com/LiLittleCat/ChatGPT" target="_blank">ChatGPT Java</a></td>
+    <td colspan=2><a href="https://central.sonatype.com/artifact/com.lilittlecat/chatgpt/1.0.0" target="_blank"><img
+                    src="https://img.shields.io/maven-central/v/com.lilittlecat/chatgpt?style=flat-square"
+                    alt="Maven Central"></a></td>
+    <td><a href="https://github.com/LiLittleCat/ChatGPT" target="_blank"><img
+                    src="https://img.shields.io/github/stars/LiLittleCat/ChatGPT?style=flat-square" alt="Stars"></a></td>
+    <td> <a href="https://github.com/LiLittleCat/ChatGPT/commits" target="_blank"><img
+                    src="https://img.shields.io/github/last-commit/LiLittleCat/ChatGPT?style=flat-square&amp;label=last"
+                    alt="GitHub last commit"></a></td>
+  </tr>
+  <tr>
+    <td colspan=4><a href="https://github.com/LiLittleCat/tools-in-ruanyf-weekly" target="_blank">阮一峰老师科技爱好者周刊「工具」和「资源」汇总</a></td>
+    <td><a href="https://github.com/LiLittleCat/tools-in-ruanyf-weekly" target="_blank"><img
+                    src="https://img.shields.io/github/stars/LiLittleCat/tools-in-ruanyf-weekly?style=flat-square"
+                    alt="Stars"></a></td>
+    <td> <a href="https://github.com/LiLittleCat/tools-in-ruanyf-weekly/commits" target="_blank"><img
+                    src="https://img.shields.io/github/last-commit/LiLittleCat/tools-in-ruanyf-weekly?style=flat-square&amp;label=last"
+                    alt="GitHub last commit"></a></td>
+  </tr>
+  <tr>
+    <td colspan=2><a href="https://github.com/LiLittleCat/awesome-websites" target="_blank">Awesome Websites</a></td>
+    <td colspan=2><a href="https://github.com/LiLittleCat/awesome-websites" target="_blank"><img
+                    src="https://img.shields.io/badge/under-construction-yellow?style=flat-square&amp;logo=rubocop"
+                    alt="Under construction"></a></td>
+    <td><a href="https://github.com/LiLittleCat/awesome-websites" target="_blank"><img
+                    src="https://img.shields.io/github/stars/LiLittleCat/awesome-websites?style=flat-square"
+                    alt="Stars"></a></td>
+    <td><a href="https://github.com/LiLittleCat/awesome-websites/commits" target="_blank"><img
+                    src="https://img.shields.io/github/last-commit/LiLittleCat/awesome-websites?style=flat-square&amp;label=last"
+                    alt="GitHub last commit"></a></td>
+  </tr>
+</tbody>
+</table>
 
 #### Contribute to
 
-- [tldr-pages](https://github.com/tldr-pages/tldr)
-  [![GitHub last commit](https://img.shields.io/github/last-commit/LiLittleCat/tldr?style=flat-square&label=last)](https://github.com/tldr-pages/tldr/commits?author=lilittlecat)
+<table>
+<tbody>
+  <tr>
+    <td><a href="https://github.com/tldr-pages/tldr>" target="_blank">tldr-pages</a></td>
+    <td><a href="https://github.com/tldr-pages/tldr/commits?author=lilittlecat" target="_blank"><img
+                    src="https://img.shields.io/github/last-commit/LiLittleCat/tldr?style=flat-square&label=last"
+                    alt="GitHub last commit"></a></td>
+  </tr>
+  </tbody>
+</table>
 
 ---
 
@@ -105,7 +171,6 @@ An experienced backend developer who is currently learning frontend technology a
   </br>
   <a href="#">![trophy](https://github-profile-trophy.vercel.app/?username=LiLittleCat&theme=onedark&count_private=true&hide_border=true&line_height=20&hide_title=true&row=1)</a>
 </details>
-
 
 <!-- [![LiLittleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiLittleCat)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
