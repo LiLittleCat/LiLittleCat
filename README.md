@@ -5,26 +5,34 @@
 
 ---
 <p align="center">
-A backend developer from China.
+An experienced backend developer who is currently learning frontend technology and AI from China.
 </p>
 
 ---
+
 
 <!-- ![](https://komarev.com/ghpvc/?username=LiLittleCat&color=brightgreen&style=for-the-badge) ![](https://hit.yhype.me/github/profile?user_id=40536573) -->
 
 <p align="center">
-  <a href="https://github.com/LiLittleCat"><img src="https://komarev.com/ghpvc/?username=LiLittleCat&color=brightgreen&style=for-the-badge" alt="Typing SVG" /></a>
+<a href="https://github.com/LiLittleCat"><img src="https://img.shields.io/badge/Always%20Be-Coding-blue?style=for-the-badge"/></a>
+  <a href="https://github.com/LiLittleCat"><img src="https://komarev.com/ghpvc/?username=LiLittleCat&color=brightgreen&style=for-the-badge"/></a>
 </p>
 
 <!-- --- -->
 
-<!-- Languages and Tools: -->
 
+
+| Languages and Tools |
+| ------------------- |
+|                  |
 
 
 
 ---
 
+Projects
+
+---
 
 <!-- [![LiLittleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiLittleCat)](https://github.com/anuraghazra/github-readme-stats) -->
 <!--
@@ -59,10 +67,17 @@ Here are some ideas to get you started:
 [//]: # (</details>)
 
 
-💻 GitHub Profile Stats  
-<br/>
+<!-- 💻 GitHub Profile Stats   -->
+<!-- <br/>
  <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="LiLittleCat's GitHub stats" src="https://denvercoder1-github-readme-stats.vercel.app/api?username=LiLittleCat&include_all_commits=true&show_icons=true&theme=react&hide_border=true&bg_color=0D1117&hide_title=true" /></a>
   <a href="https://github.com/anuraghazra/github-readme-stats"><img alt="lrusso96's Top Languages" src="https://denvercoder1-github-readme-stats.vercel.app/api/top-langs/?username=LiLittleCat&langs_count=8&layout=compact&theme=react&hide_border=true&bg_color=0D1117" /></a>
-    <br/>
+    <br/> -->
 
 <!-- ![trophy](https://github-profile-trophy.vercel.app/?username=LiLittleCat) -->
+
+<details>
+  <summary>Github Stats ⚡</summary>
+  
+  <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=LiLittleCat&theme=blueberry&count_private=true&hide_border=true&line_height=20&hide_title=true)</a>
+  <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiLittleCat&layout=compact&theme=blueberry&count_private=true&hide_border=true&hide_title=true)</a>
+</details>
