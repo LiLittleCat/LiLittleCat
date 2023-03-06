@@ -55,7 +55,7 @@ An experienced backend developer who is currently learning frontend technology a
 <table>
 <tbody>
   <tr>
-    <td rowspan="4">JetBrains plugins</td>
+    <td rowspan="4">JetBrains IDE plugins</td>
     <td><a href="https://github.com/LiLittleCat/intellij-chatgpt" target="_blank">ChatGPT Tool</a></td>
     <td> <a href="https://plugins.jetbrains.com/plugin/20629-chatgpt-tool" target="_blank"><img
                         src="https://img.shields.io/jetbrains/plugin/v/20629-chatgpt-tool.svg?style=flat-square"
