@@ -147,7 +147,7 @@ An experienced backend developer who is currently learning frontend technology a
 <table>
 <tbody>
   <tr>
-    <td><a href="https://github.com/tldr-pages/tldr>" target="_blank">tldr-pages</a></td>
+    <td><a href="https://github.com/tldr-pages/tldr" target="_blank">tldr-pages</a></td>
     <td><a href="https://github.com/tldr-pages/tldr/commits?author=lilittlecat" target="_blank"><img
                     src="https://img.shields.io/github/last-commit/LiLittleCat/tldr?style=flat-square&label=last"
                     alt="GitHub last commit"></a></td>
