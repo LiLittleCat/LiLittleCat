@@ -2,12 +2,12 @@
  <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Pacifico&size=30&duration=2500&pause=500&center=true&vCenter=true&width=435&lines=Hi+there+%F0%9F%91%8B;I+am+Yi+Liu+%F0%9F%98%B8" alt="Typing SVG" /></a>
 </p>
 
----
+<!-- --- -->
 <p align="center">
 An experienced backend developer who is currently learning frontend technology and AI from China.
 </p>
 
----
+<!-- --- -->
 
 <!-- ![](https://komarev.com/ghpvc/?username=LiLittleCat&color=brightgreen&style=for-the-badge) ![](https://hit.yhype.me/github/profile?user_id=40536573) -->
 
@@ -19,7 +19,7 @@ An experienced backend developer who is currently learning frontend technology a
 <!-- --- -->
 ---
 
-### Languages and Tools
+# Languages and Tools
 
 [![My Skills](https://skillicons.dev/icons?i=java)](https://skillicons.dev)
 [![My Skills](https://skillicons.dev/icons?i=spring)](https://skillicons.dev)
@@ -51,9 +51,9 @@ An experienced backend developer who is currently learning frontend technology a
 
 ---
 
-### Projects
+# Projects
 
-#### Maintain
+## Maintain
 
 <table>
 <tbody>
@@ -142,7 +142,7 @@ An experienced backend developer who is currently learning frontend technology a
 </tbody>
 </table>
 
-#### Contribute to
+## Contribute to
 
 <table>
 <tbody>
