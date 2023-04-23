@@ -163,7 +163,7 @@ An experienced backend developer who is currently learning frontend technology a
   <a href="#">![Github stats](https://github-readme-stats.vercel.app/api?username=LiLittleCat&theme=onedark&count_private=true&hide_border=true&line_height=20&hide_title=true)</a>
   <a href="#">![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LiLittleCat&layout=compact&theme=onedark&count_private=true&hide_border=true&hide_title=true)</a>
   </br>
-  <a href="#">![trophy](https://github-profile-trophy.vercel.app/?username=LiLittleCat&theme=onedark&count_private=true&hide_border=true&line_height=20&hide_title=true&row=1)</a>
+  <a href="#">![trophy](https://github-profile-trophy.vercel.app/?username=LiLittleCat&theme=onedark&count_private=true&hide_border=true&line_height=20&hide_title=true&row=1&column=7)</a>
 </details>
 
 <!-- [![LiLittleCat's GitHub stats](https://github-readme-stats.vercel.app/api?username=LiLittleCat)](https://github.com/anuraghazra/github-readme-stats) -->
