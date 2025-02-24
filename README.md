@@ -79,17 +79,6 @@
 <tbody>
   <tr>
     <td rowspan="4">JetBrains plugins</td>
-    <td><a href="https://github.com/LiLittleCat/intellij-chatgpt" target="_blank">ChatGPT Tool</a></td>
-    <td> <a href="https://plugins.jetbrains.com/plugin/20629-chatgpt-tool" target="_blank"><img
-                        src="https://img.shields.io/jetbrains/plugin/v/20629-chatgpt-tool.svg?style=flat-square"
-                        alt="Version"></a> <a href="https://plugins.jetbrains.com/plugin/20629-chatgpt-tool" target="_blank"><img
-                        src="https://img.shields.io/jetbrains/plugin/d/20629-chatgpt-tool.svg?style=flat-square"
-                        alt="Downloads"></a> <a href="https://github.com/LiLittleCat/intellij-chatgpt" target="_blank"><img
-                        src="https://img.shields.io/github/stars/LiLittleCat/intellij-chatgpt?style=flat-square"
-                        alt="Stars"></a> <a href="https://github.com/LiLittleCat/intellij-chatgpt/commits" target="_blank"><img
-                        src="https://img.shields.io/github/last-commit/LiLittleCat/intellij-chatgpt?style=flat-square&amp;label=last"
-                        alt="GitHub last commit"></a>
-                        </td>
   </tr>
   <tr>
     <td><a href="https://github.com/LiLittleCat/intellij-generate-all-getter-and-setter" target="_blank">Generate All Getter And
