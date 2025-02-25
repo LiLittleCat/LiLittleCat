@@ -19,7 +19,7 @@
 
 - 👨‍💻 Senior backend developer from China.
 - 🌱 Currently learning JavaScript, Rust and machine learning.
-- 📫 Reach me: [Email](mailto:lilittlecat@outlook.com)
+- 📫 Reach me: [Email](mailto:hi@yiliu.dev)
 
 [//]: # (- 🔭 Currently working on Don't Starve Together character mod [Yuuri]&#40;https://github.com/TeamUnorthodoxy/yuuri&#41;.)
 
